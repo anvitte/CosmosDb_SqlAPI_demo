@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cosmos_Demo", "Cosmos_Demo\Cosmos_Demo.csproj", "{6B4C2DF8-6EDE-4061-996C-92D4196D3955}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cosmos_Demos", "Cosmos_Demos\Cosmos_Demos.csproj", "{B0DEAF77-225D-409A-9832-4A35A3499927}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B4C2DF8-6EDE-4061-996C-92D4196D3955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B4C2DF8-6EDE-4061-996C-92D4196D3955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B4C2DF8-6EDE-4061-996C-92D4196D3955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B4C2DF8-6EDE-4061-996C-92D4196D3955}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0DEAF77-225D-409A-9832-4A35A3499927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0DEAF77-225D-409A-9832-4A35A3499927}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0DEAF77-225D-409A-9832-4A35A3499927}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0DEAF77-225D-409A-9832-4A35A3499927}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DD9B5B8-EFD6-476A-A5BF-DF32567D1416}
+	EndGlobalSection
+EndGlobal

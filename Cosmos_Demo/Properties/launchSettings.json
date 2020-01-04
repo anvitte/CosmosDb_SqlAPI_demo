@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Cosmos_Demo": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
