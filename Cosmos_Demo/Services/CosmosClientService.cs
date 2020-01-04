@@ -16,7 +16,7 @@ namespace Cosmos_Demo.Services
         public CosmosClient _cosmosClient;
         public CosmosClientService()
         {
-            _cosmosClient = new CosmosClient(Common.EnpointUrl, Common.AuthorizationKey);
+            _cosmosClient = new CosmosClient(Common.EndpointUrl, Common.AuthorizationKey);
         }
 
         public async Task<string> GetDbOrCreateIfDbNotExist(string databaseId)

@@ -10,15 +10,14 @@ namespace Cosmos_Demo
     class Program
     {
 
-        public CosmosClientService _clientService;
+        private static CosmosClientService _clientService;
         public static  void Main(string[] args)
         {
 
-            Program m = new Program();
-            m.RunProgram();
+            RunProgram();
 
         }
-        public  async void RunProgram()
+        public  static async void RunProgram()
         {
 
             Console.WriteLine("Hello World! from Cosmos World - Anvitte");
